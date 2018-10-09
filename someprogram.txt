@@ -1,0 +1,5 @@
+variable=1
+for x in [v1,v2,v3]
+	do something 
+done!
+
